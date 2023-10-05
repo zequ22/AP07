@@ -1,0 +1,275 @@
+{
+    "list": [
+      {
+        "id_venta": 1,
+        "cliente": {
+          "id": 1,
+          "first_name": "Walsh",
+          "last_name": "Steffens",
+          "email": "wsteffens0@tinyurl.com",
+          "gender": "Male",
+          "address": "35056 Melody Place"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 1,
+            "nombre": "Flour - Buckwheat, Dark",
+            "precio": "$1346.65",
+            "cantidad": 2
+          },
+          {
+            "id_producto": 2,
+            "nombre": "Longos - Grilled Chicken With",
+            "precio": "$7007.98",
+            "cantidad": 3
+          }
+        ],
+        "total_venta": "$29059.59",
+        "fecha_venta": "2023-10-01"
+      },
+      {
+        "id_venta": 2,
+        "cliente": {
+          "id": 2,
+          "first_name": "Derrick",
+          "last_name": "Merigon",
+          "email": "dmerigon1@mlb.com",
+          "gender": "Male",
+          "address": "25 Lotheville Trail"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 3,
+            "nombre": "Coffee - Beans, Whole",
+            "precio": "$8840.40",
+            "cantidad": 1
+          },
+          {
+            "id_producto": 4,
+            "nombre": "Cheese - Cheddarsliced",
+            "precio": "$6307.55",
+            "cantidad": 2
+          }
+        ],
+        "total_venta": "$21488.50",
+        "fecha_venta": "2023-10-02"
+      },
+      {
+        "id_venta": 3,
+        "cliente": {
+          "id": 3,
+          "first_name": "Demetri",
+          "last_name": "Ruthven",
+          "email": "druthven2@go.com",
+          "gender": "Male",
+          "address": "16 Sunnyside Alley"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 5,
+            "nombre": "Potatoes - Fingerling 4 Oz",
+            "precio": "$5934.19",
+            "cantidad": 4
+          },
+          {
+            "id_producto": 6,
+            "nombre": "Pork - Tenderloin, Frozen",
+            "precio": "$8029.66",
+            "cantidad": 1
+          }
+        ],
+        "total_venta": "$30999.85",
+        "fecha_venta": "2023-10-03"
+      },
+      {
+        "id_venta": 4,
+        "cliente": {
+          "id": 4,
+          "first_name": "Ashli",
+          "last_name": "Shalloe",
+          "email": "ashalloe3@nbcnews.com",
+          "gender": "Female",
+          "address": "823 Delladonna Center"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 7,
+            "nombre": "Beef - Tenderloin - Aa",
+            "precio": "$2369.11",
+            "cantidad": 3
+          },
+          {
+            "id_producto": 8,
+            "nombre": "Savory",
+            "precio": "$8783.08",
+            "cantidad": 2
+          }
+        ],
+        "total_venta": "$30448.42",
+        "fecha_venta": "2023-10-04"
+      },
+      {
+        "id_venta": 5,
+        "cliente": {
+          "id": 5,
+          "first_name": "Gerardo",
+          "last_name": "Dy",
+          "email": "gdy4@wp.com",
+          "gender": "Male",
+          "address": "3 Kensington Place"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 9,
+            "nombre": "Nantucket - Orange Mango Cktl",
+            "precio": "$3440.33",
+            "cantidad": 5
+          },
+          {
+            "id_producto": 10,
+            "nombre": "Olives - Nicoise",
+            "precio": "$9845.94",
+            "cantidad": 1
+          }
+        ],
+        "total_venta": "$23208.79",
+        "fecha_venta": "2023-10-05"
+      },
+      {
+        "id_venta": 6,
+        "cliente": {
+          "id": 1,
+          "first_name": "Walsh",
+          "last_name": "Steffens",
+          "email": "wsteffens0@tinyurl.com",
+          "gender": "Male",
+          "address": "35056 Melody Place"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 11,
+            "nombre": "Sultanas",
+            "precio": "$3663.72",
+            "cantidad": 2
+          },
+          {
+            "id_producto": 12,
+            "nombre": "Vermouth - Sweet, Cinzano",
+            "precio": "$9578.22",
+            "cantidad": 1
+          }
+        ],
+        "total_venta": "$16905.66",
+        "fecha_venta": "2023-10-06"
+      },
+      {
+        "id_venta": 7,
+        "cliente": {
+          "id": 2,
+          "first_name": "Derrick",
+          "last_name": "Merigon",
+          "email": "dmerigon1@mlb.com",
+          "gender": "Male",
+          "address": "25 Lotheville Trail"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 13,
+            "nombre": "Milk Powder",
+            "precio": "$7755.10",
+            "cantidad": 3
+          },
+          {
+            "id_producto": 14,
+            "nombre": "Lettuce Romaine Chopped",
+            "precio": "$7090.31",
+            "cantidad": 2
+          }
+        ],
+        "total_venta": "$29716.73",
+        "fecha_venta": "2023-10-07"
+      },
+      {
+        "id_venta": 8,
+        "cliente": {
+          "id": 3,
+          "first_name": "Demetri",
+          "last_name": "Ruthven",
+          "email": "druthven2@go.com",
+          "gender": "Male",
+          "address": "16 Sunnyside Alley"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 15,
+            "nombre": "Cake Circle, Paprus",
+            "precio": "$4763.98",
+            "cantidad": 4
+          },
+          {
+            "id_producto": 16,
+            "nombre": "Table Cloth 54x72 White",
+            "precio": "$3309.28",
+            "cantidad": 2
+          }
+        ],
+        "total_venta": "$26087.12",
+        "fecha_venta": "2023-10-08"
+      },
+      {
+        "id_venta": 9,
+        "cliente": {
+          "id": 4,
+          "first_name": "Ashli",
+          "last_name": "Shalloe",
+          "email": "ashalloe3@nbcnews.com",
+          "gender": "Female",
+          "address": "823 Delladonna Center"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 17,
+            "nombre": "Squash - Guords",
+            "precio": "$1621.82",
+            "cantidad": 3
+          },
+          {
+            "id_producto": 18,
+            "nombre": "Persimmons",
+            "precio": "$1762.48",
+            "cantidad": 2
+          }
+        ],
+        "total_venta": "$8839.34",
+        "fecha_venta": "2023-10-09"
+      },
+      {
+        "id_venta": 10,
+        "cliente": {
+          "id": 5,
+          "first_name": "Gerardo",
+          "last_name": "Dy",
+          "email": "gdy4@wp.com",
+          "gender": "Male",
+          "address": "3 Kensington Place"
+        },
+        "productos_vendidos": [
+          {
+            "id_producto": 19,
+            "nombre": "Mushroom - Enoki, Fresh",
+            "precio": "$7302.09",
+            "cantidad": 5
+          },
+          {
+            "id_producto": 20,
+            "nombre": "Bouq All Italian - Primerba",
+            "precio": "$1083.71",
+            "cantidad": 1
+          }
+        ],
+        "total_venta": "$39312.16",
+        "fecha_venta": "2023-10-10"
+      }
+    ]
+  }
+  
