@@ -1,33 +1,9 @@
 {
   "list": [
     {
-      "id": 1,
-      "first_name": "Walsh",
-      "last_name": "Steffens",
-      "email": "wsteffens0@tinyurl.com",
-      "gender": "Male",
-      "address": "35056 Melody Place"
-    },
-    {
-      "id": 2,
-      "first_name": "Derrick",
-      "last_name": "Merigon",
-      "email": "dmerigon1@mlb.com",
-      "gender": "Male",
-      "address": "25 Lotheville Trail"
-    },
-    {
-      "id": 3,
-      "first_name": "Demetri",
-      "last_name": "Ruthven",
-      "email": "druthven2@go.com",
-      "gender": "Male",
-      "address": "16 Sunnyside Alley"
-    },
-    {
       "id": 4,
       "first_name": "Ashli",
-      "last_name": "Shalloe",
+      "last_name": "Messi",
       "email": "ashalloe3@nbcnews.com",
       "gender": "Female",
       "address": "823 Delladonna Center"
